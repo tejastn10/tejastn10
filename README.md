@@ -15,7 +15,7 @@
 
 [<img align="left" alt="tejastn10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter][twitter]
 
-[<img align="left" alt="tejastn10 | Dev" width="22px" src="https://img.icons8.com/windows/32/000000/dev.png"/> Email][dev]
+[<img align="left" alt="tejastn10 | Dev" width="22px" src="https://img.icons8.com/windows/32/000000/dev.png"/> DEV][dev]
 
 ### ⚙️ Languages and Tools
 
