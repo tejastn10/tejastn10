@@ -77,6 +77,10 @@ func GetBio() string {
 
 <br>
 
+<details>
+
+<summary>More Info About me 😉</summary>
+
 <h2 align="center">
   Tech Stack <img src="https://media.giphy.com/media/kdQqSfBiIkAVGCAIOD/giphy.gif" width="25" />
 </h2>
@@ -155,3 +159,5 @@ func GetBio() string {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejastn10&show_icons=true&hide_border=true&theme=dark" />
 </div>
+
+</details>
