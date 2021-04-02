@@ -11,7 +11,7 @@
 <br>
 
 <div align="center" >
-  <img alt="GIF"  height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img alt="GIF"  height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="border-radius:50%" />
 </div>
 
 <br>
@@ -44,6 +44,10 @@ func GetBio() string {
 ```
 
 <br>
+
+<div align="center" >
+  <img alt="GIF"  height="200px" style="border-radius:10px" src="./assets/walkingOctocat.gif" />
+
 
 <h2 align="center">
   You can reach me at <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="25" />
@@ -161,3 +165,4 @@ func GetBio() string {
 </div>
 
 </details>
+</div>
