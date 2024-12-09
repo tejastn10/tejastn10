@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer | Full Stack Developer | Open Source Enthusiast
+  Full-Stack Developer | Innovating with React, Node.js, AWS | Expert in Scalable Systems & CI/CD Pipelines
 </h3>
 
 <br>
@@ -33,13 +33,12 @@ func main() {
 
 func GetBio() string {
   return `
-  - 🏦 I'm currently working to improve my skills 
-  - 🤔 I code in .js, .ts, .go, .py
-  - 🌱 I’m currently learning docker 🐳 and kubernetes ☸
-  - 💬 Talk to me about football ⚽ , 💻 gadgets📱 & anything related to tech 🤩.
-  - 😄 Pronouns: He/Him
-  - 📝 I regularly write articles on dev, hashnode and medium
-  - 🤩 I’m looking forward to Hacktoberfest
+  - 🏦 I'm currently working on improving my skills.
+  - 🤔 I code in JavaScript (.js), TypeScript (.ts), Go (.go), and Python (.py).
+  - 🌱 I’m currently learning about monitoring 📊 and observability 🔍.
+  - 💬 Talk to me about football ⚽, gadgets 📱, anime 🎥, or anything tech-related 🤩.
+  - 😄 Pronouns: He/Him.
+  - 📝 I regularly write articles on Dev, and Medium.
   `
 }
 ```
@@ -61,17 +60,8 @@ func GetBio() string {
   <a href="https://tejastn10.medium.com/">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Tejas Nikhar's Medium Profile" height="30" width="30">
   </a>
-  <a href="https://tn10.hashnode.dev">
-    <img  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Tejas Nikhar's Hashnode Profile" height="30" width="30">
-  </a>
-  <a href="https://www.linkedin.com/in/tn10/">
+  <a href="https://www.linkedin.com/in/tejastn10/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Tejas Nikhar's LinkedIn Profile" height="30" width="30">
-  </a>
-  <a href="https://stackoverflow.com/users/13083257/tejastn10?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Tejas Nikhar's Stack Overflow Profile" height="30" width="30">
-  </a>
-  <a href="https://www.youtube.com/channel/UCAXdtCj0usV6FO3m4G6djQQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="All Stack YouTube Channel" height="30" width="30">
   </a>
 
 </div>
@@ -92,11 +82,9 @@ func GetBio() string {
 
   <img src="https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=black&logo=git&logoColor=f1502f" >
   <img src="https://img.shields.io/badge/-GitHub-fff?style=for-the-badge&labelColor=black&logo=github&logoColor=fff" >
-  <img src="https://img.shields.io/badge/-VsCode-007acc?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007acc" >
   <img src="https://img.shields.io/badge/-AndroidStudio-a4c639?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=a4c639" >
   <img src="https://img.shields.io/badge/-Docker-049cec?style=for-the-badge&labelColor=black&logo=docker&logoColor=049cec" >
   <img src="https://img.shields.io/badge/-Postman-ef5b26?style=for-the-badge&labelColor=black&logo=postman&logoColor=ef5b26" >
-  <img src="https://img.shields.io/badge/-Figma-b4c4f4?style=for-the-badge&labelColor=black&logo=figma&logoColor=b4c4f4" >
 
 </div>
 
@@ -117,12 +105,9 @@ func GetBio() string {
 <div align="center">
 
   <img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" >
-  <img src="https://img.shields.io/badge/-Deno-fff?style=for-the-badge&labelColor=black&logo=deno&logoColor=fff" >
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" >
   <img src="https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" >
   <img src="https://img.shields.io/badge/-Flutter-2cb7f6?style=for-the-badge&labelColor=black&logo=flutter&logoColor=2cb7f6" >
-  <!-- <img src="https://img.shields.io/badge/-Django-092e20?style=for-the-badge&labelColor=black&logo=Django&logoColor=092e20" >
-  <img src="https://img.shields.io/badge/-Flask-fff?style=for-the-badge&labelColor=black&logo=flask&logoColor=fff" > -->
 
 </div>
 
@@ -130,7 +115,6 @@ func GetBio() string {
 
 <div align="center">
 
-  <!-- <img src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab" > -->
   <img src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3fa037" >
   <img src="https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=f29111" >
   <img src="https://img.shields.io/badge/-PostgresQL-00758f?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=00758f" >
