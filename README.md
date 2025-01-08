@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer | Innovating with React, Node.js, AWS | Expert in Scalable Systems & CI/CD Pipelines
+  Full-Stack Developer | Scalable Systems & CI/CD with React, Node.js, AWS
 </h3>
 
 <br>
