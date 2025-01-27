@@ -49,8 +49,10 @@ func GetBio() string {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tejastn10)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejastn10/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tejastn10.medium.com/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/tejastn10)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tejastn10/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://tejastn10.medium.com/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=devdotto&logoColor=white)](https://dev.to/tejastn10)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/tejastn10)
 
 </div>
