@@ -38,7 +38,7 @@ func GetBio() string {
   - 🌱 I’m currently learning about monitoring 📊 and observability 🔍.
   - 💬 Talk to me about football ⚽, gadgets 📱, anime 🎥, or anything tech-related 🤩.
   - 😄 Pronouns: He/Him.
-  - 📝 I try to write articles on Dev, and Medium 😉.
+  - 📝 I try to write articles on Dev, Medium, and my personal blog 😉.
   `
 }
 ```
