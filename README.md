@@ -13,7 +13,7 @@
 <div align="center">
   <img alt="GIF"  height="50px" src="./assets/GitHub-Mark-Light-120px-plus.png#gh-dark-mode-only" style="border-radius:50%" />
   <img alt="GIF"  height="50px" src="./assets/GitHub-Mark-120px-plus.png#gh-light-mode-only" style="border-radius:50%" />
-  <img alt="Personal Logo" height="50px" src="./assets/logo.png" style="position: absolute; top: 10px; right: 10px; padding: 5px;" />
+  <img alt="Personal Logo" height="50px" src="./assets/logo.png" />
 </div>
 
 <br>
