@@ -54,51 +54,23 @@ func GetBio() string {
 
 <h3 align="center">🚀 Professional & Social</h3>
 
-<p align="center">
-  <a href="https://x.com/tejastn10" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.linkedin.com/in/tejastn10/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/tejastn10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/tejastn10)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tejastn10/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/tejastn10)
+
+</div>
 
 <hr style="width: 60%; border: 1px solid #333; margin: 20px auto;">
 
 <h3 align="center">✍️ Content & Writing</h3>
 
-<p align="center">
-  <a href="https://tejastn10.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://tejastn10.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://tejastn10.substack.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-000000?logo=substack&logoColor=white" alt="Substack">
-  </a>
-  <a href="https://dev.to/tejastn10" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?logo=devdotto&logoColor=white" alt="Dev.to">
-  </a>
-</p>
+<div align="center">
 
-<style>
-  p {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-  }
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://tejastn10.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://tejastn10.medium.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=devdotto&logoColor=white)](https://dev.to/tejastn10)
+[![Substack](https://img.shields.io/badge/Substack-000000?logo=substack&logoColor=white)](https://tejastn10.substack.com)
 
-  p a img {
-    transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  }
-
-  p a:hover img {
-    transform: scale(1.1);
-    opacity: 0.8;
-  }
-</style>
+</div>
