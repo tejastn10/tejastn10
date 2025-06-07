@@ -39,7 +39,7 @@ func GetBio() string {
   - 🌱 I’m currently learning about monitoring 📊 and observability 🔍.
   - 💬 Talk to me about football ⚽, gadgets 📱, anime 🎥, or anything tech-related 🤩.
   - 😄 Pronouns: He/Him.
-  - 📝 I try to write articles on Substack, Medium, DEV, and my personal blog 😉.
+  - 📝 I try to write articles on Medium, DEV, and my personal blog 😉.
   `
 }
 ```
@@ -71,6 +71,5 @@ func GetBio() string {
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://tejastn10.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://tejastn10.medium.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=devdotto&logoColor=white)](https://dev.to/tejastn10)
-[![Substack](https://img.shields.io/badge/Substack-000000?logo=substack&logoColor=white)](https://tejastn10.substack.com)
 
 </div>
